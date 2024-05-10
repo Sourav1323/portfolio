@@ -2,8 +2,8 @@
     height: 70px;
 }
 .wrapper{
-    max-width: 1366px;
-    margin: 100px;
+    max-width: 84%;
+    margin: auto;
     display: flex;
     justify-content: space-between;
     align-content: center;
@@ -20,11 +20,8 @@
   }
 }
 .name{
-  font-size: 59px;
+  font-size: 30px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: chartreuse;
   background-clip: text
-}
-.name1{
-  font-size: 30px;
 }
