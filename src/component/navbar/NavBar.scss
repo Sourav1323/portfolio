@@ -1,5 +1,6 @@
 .navbar{
     height: 70px;
+   // margin-top: 30px;
 }
 .wrapper{
     max-width: 84%;
@@ -7,9 +8,12 @@
     display: flex;
     justify-content: space-between;
     align-content: center;
-
+ span{
+  margin-top: 10px;
+ }
 }
 .socials{
+  margin-top: 10px;
   display: flex;
   gap: 20px;
   img{
@@ -20,6 +24,7 @@
   }
 }
 .name{
+  margin-top: 10px;
   font-size: 30px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: chartreuse;
